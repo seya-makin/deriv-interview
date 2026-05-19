@@ -1,0 +1,12 @@
+{
+  "winner": "linear_svm",
+  "selection_metric": "macro_f1",
+  "winner_score": 1.0,
+  "all_scores": {
+    "logistic_regression": 1.0,
+    "linear_svm": 1.0,
+    "naive_bayes": 1.0
+  },
+  "tie_broken_by": "alphabetical",
+  "rationale": "Tie on macro_f1=1.0000 among ['logistic_regression', 'linear_svm', 'naive_bayes']; resolved alphabetically -> linear_svm"
+}

@@ -1,0 +1,41 @@
+id,text,label
+1,"I loved the onboarding flow, it was simple and fast",positive
+2,"The app crashes every time I try to upload a file",negative
+3,"Support replied quickly and solved my issue",positive
+4,"The latest update made navigation confusing",negative
+5,"Payment was processed smoothly",positive
+6,"Login takes too long and often fails",negative
+7,"Great experience, clean interface",positive
+8,"Notifications are delayed and unreliable",negative
+9,"Very easy to use for first-time users",positive
+10,"Search results are inaccurate",negative
+11,"The dashboard is clean and well organized",positive
+12,"I cannot log in after the latest update",negative
+13,"Excellent customer service experience",positive
+14,"The app freezes on the checkout screen",negative
+15,"Onboarding was intuitive and well guided",positive
+16,"My account got locked without any warning",negative
+17,"Fast and reliable payment processing",positive
+18,"The filters on the search page do not work",negative
+19,"Really impressed with how smooth everything runs",positive
+20,"Constant error messages make it unusable",negative
+21,"The new design is clean and modern",positive
+22,"Data takes forever to load on the dashboard",negative
+23,"I completed my first transaction without any issues",positive
+24,"The mobile app crashes on startup",negative
+25,"Support team was helpful and resolved my issue fast",positive
+26,"I have been locked out of my account for three days",negative
+27,"Everything worked perfectly on the first try",positive
+28,"The export feature is completely broken",negative
+29,"Seamless experience from signup to first use",positive
+30,"Verification emails never arrive",negative
+31,"The interface is intuitive and easy to navigate",positive
+32,"I lost data because the app crashed mid session",negative
+33,"Quick response from support and problem was fixed",positive
+34,"The app is slow and unresponsive on mobile",negative
+35,"Loved how easy it was to set up my account",positive
+36,"Repeated login failures are frustrating",negative
+37,"Best trading interface I have used so far",positive
+38,"The graph does not load on the analytics page",negative
+39,"Everything from signup to trade was smooth",positive
+40,"Push notifications stopped working after the update",negative

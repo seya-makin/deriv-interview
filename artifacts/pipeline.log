@@ -1,0 +1,48 @@
+2026-05-19 14:32:02,369 [INFO] === INIT (start) ===
+2026-05-19 14:32:02,370 [INFO] === INIT (complete) ===
+2026-05-19 14:32:02,370 [INFO] === DATA_LOADED (start) ===
+2026-05-19 14:32:02,370 [INFO] === DATA_LOADED (complete) ===
+2026-05-19 14:32:02,370 [INFO] === DATA_VALIDATED (start) ===
+2026-05-19 14:32:02,388 [INFO] === DATA_VALIDATED (complete) ===
+2026-05-19 14:32:02,388 [INFO] === TEXT_PREPROCESSED (start) ===
+2026-05-19 14:32:02,390 [INFO] === TEXT_PREPROCESSED (complete) ===
+2026-05-19 14:32:02,390 [INFO] === SPLIT_CREATED (start) ===
+2026-05-19 14:32:02,399 [INFO] === SPLIT_CREATED (complete) ===
+2026-05-19 14:32:02,399 [INFO] === FEATURES_FIT (start) ===
+2026-05-19 14:32:02,417 [INFO] === FEATURES_FIT (complete) ===
+2026-05-19 14:32:02,417 [INFO] === MODELS_TRAINED (start) ===
+2026-05-19 14:32:05,510 [INFO] === MODELS_TRAINED (complete) ===
+2026-05-19 14:32:05,510 [INFO] === CROSS_VALIDATION (start) ===
+2026-05-19 14:32:05,589 [INFO] === CROSS_VALIDATION (complete) ===
+2026-05-19 14:32:05,590 [INFO] === MODELS_EVALUATED (start) ===
+2026-05-19 14:32:05,619 [INFO] === MODELS_EVALUATED (complete) ===
+2026-05-19 14:32:05,619 [INFO] === FEATURE_IMPORTANCE (start) ===
+2026-05-19 14:32:05,621 [INFO] === FEATURE_IMPORTANCE (complete) ===
+2026-05-19 14:32:05,622 [INFO] === WINNER_SELECTED (start) ===
+2026-05-19 14:32:05,623 [INFO] === WINNER_SELECTED (complete) ===
+2026-05-19 14:32:05,623 [INFO] === ARTIFACTS_SAVED (start) ===
+2026-05-19 14:32:05,626 [INFO] === ARTIFACTS_SAVED (complete) ===
+2026-05-19 14:32:05,626 [INFO] === TEST_PREDICTIONS_GENERATED (start) ===
+2026-05-19 14:32:05,657 [INFO] === TEST_PREDICTIONS_GENERATED (complete) ===
+2026-05-19 14:32:05,657 [INFO] === REPORT_EXPORTED (start) ===
+2026-05-19 14:32:05,660 [INFO] === REPORT_EXPORTED (complete) ===
+2026-05-19 14:32:05,660 [INFO] === Pipeline complete ===
+2026-05-19 14:32:05,660 [INFO] Winning model: linear_svm
+2026-05-19 14:32:05,660 [INFO] Artifact paths:
+2026-05-19 14:32:05,660 [INFO]   - artifacts/cross_validation_report.json
+2026-05-19 14:32:05,660 [INFO]   - artifacts/data_validation_report.json
+2026-05-19 14:32:05,661 [INFO]   - artifacts/error_analysis.json
+2026-05-19 14:32:05,661 [INFO]   - artifacts/feature_importance.json
+2026-05-19 14:32:05,661 [INFO]   - artifacts/linear_svm.joblib
+2026-05-19 14:32:05,662 [INFO]   - artifacts/logistic_regression.joblib
+2026-05-19 14:32:05,662 [INFO]   - artifacts/metrics.json
+2026-05-19 14:32:05,662 [INFO]   - artifacts/model_selection_report.json
+2026-05-19 14:32:05,662 [INFO]   - artifacts/naive_bayes.joblib
+2026-05-19 14:32:05,662 [INFO]   - artifacts/pipeline.log
+2026-05-19 14:32:05,662 [INFO]   - artifacts/preprocessing_preview.json
+2026-05-19 14:32:05,663 [INFO]   - artifacts/report.html
+2026-05-19 14:32:05,663 [INFO]   - artifacts/run_manifest.json
+2026-05-19 14:32:05,663 [INFO]   - artifacts/safeguards_report.json
+2026-05-19 14:32:05,663 [INFO]   - artifacts/split_report.json
+2026-05-19 14:32:05,663 [INFO]   - artifacts/test_predictions.csv
+2026-05-19 14:32:05,664 [INFO]   - artifacts/vectorizer.joblib

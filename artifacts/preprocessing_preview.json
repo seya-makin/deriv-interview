@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "original": "I loved the onboarding flow, it was simple and fast",
+    "processed": "i loved the onboarding flow, it was simple and fast"
+  },
+  {
+    "id": "2",
+    "original": "The app crashes every time I try to upload a file",
+    "processed": "the app crashes every time i try to upload a file"
+  },
+  {
+    "id": "3",
+    "original": "Support replied quickly and solved my issue",
+    "processed": "support replied quickly and solved my issue"
+  },
+  {
+    "id": "4",
+    "original": "The latest update made navigation confusing",
+    "processed": "the latest update made navigation confusing"
+  },
+  {
+    "id": "5",
+    "original": "Payment was processed smoothly",
+    "processed": "payment was processed smoothly"
+  }
+]

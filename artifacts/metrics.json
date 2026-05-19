@@ -1,0 +1,86 @@
+{
+  "logistic_regression": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "per_class": {
+      "negative": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "positive": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "confusion_matrix": {
+      "negative": {
+        "negative": 4,
+        "positive": 0
+      },
+      "positive": {
+        "negative": 0,
+        "positive": 4
+      }
+    }
+  },
+  "linear_svm": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "per_class": {
+      "negative": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "positive": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "confusion_matrix": {
+      "negative": {
+        "negative": 4,
+        "positive": 0
+      },
+      "positive": {
+        "negative": 0,
+        "positive": 4
+      }
+    }
+  },
+  "naive_bayes": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "per_class": {
+      "negative": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "positive": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "confusion_matrix": {
+      "negative": {
+        "negative": 4,
+        "positive": 0
+      },
+      "positive": {
+        "negative": 0,
+        "positive": 4
+      }
+    }
+  }
+}
